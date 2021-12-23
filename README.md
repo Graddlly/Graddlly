@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Graddlly
 - 👀 I’m interested in programming (Java | C# | Python)
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on AxiomTeam
 - 📫 How to reach me: vk.com/graddlly | t.me/graddlly
