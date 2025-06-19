@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/graddllyet" target="blank"><img src="https://img.shields.io/twitter/follow/graddllyet?logo=twitter&style=for-the-badge" alt="graddllyet" /></a> </p>
 
-- 🔭 I’m currently working on [PSULangsP](https://github.com/Graddlly/PSULangsP)
+- 🔭 I’m currently working on [PSULangsP](https://github.com/Graddlly/PSULangsP) and other closed repos
 
 - 🌱 I’m currently learning **flutter, signalr, unity**
 
